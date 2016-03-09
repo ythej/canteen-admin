@@ -25,3 +25,5 @@ Not everyone would be using the app, and so as to allow the people to also place
 
 
 Also, the admin would be responsible for adding virtual money into the user account which can be done by taking the roll number or any other unique identification from the user, and by adding the certain amount of money into his account.
+
+For an idea on git please this read this : https://gist.github.com/ythej/3e05c949bb0b8d393b57
